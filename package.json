@@ -1,0 +1,9 @@
+{
+  "name": "transcript-trace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-linked meeting action extraction with the OpenAI API",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "demo": "node cli.js --demo", "extract": "node cli.js" }
+}
